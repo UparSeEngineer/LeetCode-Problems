@@ -1,4 +1,3 @@
-// Using XOR Method 
 class Solution {
     public int missingNumber(int[] nums) {
         int allXOR = 0;
@@ -11,5 +10,3 @@ class Solution {
         return allXOR;
     }
 }
-
-// Using Eliminary Mathematics Method
